@@ -1,7 +1,7 @@
 name: mattb
 favicon: null
-layout_spectrum: 0.8000971113797277
-typography_spectrum: 0.25563188293017447
+layout_spectrum: 0.32078
+typography_spectrum: 0.75492
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.35908841784112155
-  lightness: 0.6330060851760209
-  saturation: 0.8288171703461558
-  rhythmicContrast: 0.05169628723524511
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 0.875
+  rhythmicContrast: 0.25
 purpose: []
